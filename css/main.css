@@ -10,12 +10,12 @@ img	{
 .espacio-arriba{
 	margin-top: 100px;
 }
-/*#principal{
-	width: 40%;
+#principal{
+	/*width: 40%;*/
 	float: none;
 	margin-top: 100px;
 	text-align: center;
-}*/
+}
 .pacifico{
    font-family: 'pacifico', cursive;
 }
